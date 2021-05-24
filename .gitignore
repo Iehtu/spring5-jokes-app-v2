@@ -1,3 +1,31 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+.idea
+*.iml
+*.iws
+*.ipr
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/mb-gradle/
+build/
+
+.vscode
+
+
 # Compiled class file
 *.class
 
